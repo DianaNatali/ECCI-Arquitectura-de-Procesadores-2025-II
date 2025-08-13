@@ -7,9 +7,9 @@ En este laboratorio nos enfocaremos en la instalación y configuración de las h
 
 Quartus es un software de diseño digital e implementación FPGA desarrollado por Intel (anteriormente Altera). Es ampliamente utilizado para la síntesis, implementación y verificación de diseños digitales en FPGAs de la familia Cyclone.
 
-* [Guía de instalación](/laboratorios/0_lab0/Quartus_installation_guide.md)
+* [Guía de instalación](/labs/00_lab0/Quartus_installation_guide.md)
 
-* [Tutorial de implementación en la FPGA Cyclone IV](/laboratorios/0_lab0/proyectoQuartus.md)
+* [Tutorial de implementación en la FPGA Cyclone IV](/labs/00_lab0/proyectoQuartus.md)
 
 ## 2. Herramientas de simulación *Open Source*:
 
@@ -17,11 +17,11 @@ Quartus es un software de diseño digital e implementación FPGA desarrollado po
 
   Icarus Verilog es una herramienta de simulación de código abierto para HDL (*Hardware Description Language*). Es ideal para simular y verificar diseños digitales antes de su implementación en hardware.
 
-  * [Guía de instalación](/laboratorios/0_lab0/iverilog.md)
+  * [Guía de instalación](/labs/00_lab00/iverilog.md)
 
 2. ### Digital - Simulador de circuitos
 
-   * [Digital - Simulador de circuitos](/laboratorios/0_lab0/digital.md)
+   * [Digital - Simulador de circuitos](/labs/00_lab00/digital.md)
 
 
 ## 2. Visual Studio Code 
