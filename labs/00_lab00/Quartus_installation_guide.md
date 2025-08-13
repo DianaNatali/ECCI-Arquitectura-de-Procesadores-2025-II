@@ -13,7 +13,7 @@
 
 * Ejecute el instalador ```exe``` que se descargó en el ítem anterior. Se abrirá el siguiente cuadro de dialogo:
 
-    ![install_quartus](/laboratorios/figs/lab0/install_quartus_windows.png)
+    ![install_quartus](/labs/figs/lab0/install_quartus_windows.png)
 
 
 
@@ -38,7 +38,7 @@
     * Seleccione la última versión  y  seleccione el sistema operativo, en este caso Linux!
     *  Descargue el archivo ```.run```.
 
-        ![download_quartus](/laboratorios/figs/lab0/quartus_1.png)
+        ![download_quartus](/labs/figs/lab0/quartus_1.png)
 
 
 * Instalación:
@@ -58,7 +58,7 @@
 
         Se abrirá el siguiente cuadro de dialogo:
 
-        ![download_quartus](/laboratorios/figs/lab0/install_quartus.png)
+        ![download_quartus](/labs/figs/lab0/install_quartus.png)
 
 #### Configuración de la variable de entorno
 
@@ -116,7 +116,7 @@ Ahora podrá ejecutar la IDE Quartus utilizando el comando ```quartus``` en la t
 
 * Se abrirá el instalador:
 
-    ![questa](/laboratorios/figs/lab0/questa.jpeg) 
+    ![questa](/labs/figs/lab0/questa.jpeg) 
 
 
     - Dar click en siguiente y seleccionar la opción ```Questa - Intel FPGA Starter Edition```.
@@ -147,18 +147,18 @@ Center (SSLC)](https://www.intel.com/content/www/us/en/secure/forms/fpga-sslc-re
 
 * Una vez realizados los anteriores pasos, se abrirá el siguiente portal:
 
-    ![intel](/laboratorios/figs/lab0/intel.jpeg) 
+    ![intel](/labs/figs/lab0/intel.jpeg) 
 
     - Ingresar a la opción ```Sing up for Evaluation or No-Cost License```.
 
 
     - Seleccionar la opción ```Questa*-Intel® FPGA Starter``` y dar click en siguiente.
 
-    ![intel2](/laboratorios/figs/lab0/intel2.jpeg) 
+    ![intel2](/labs/figs/lab0/intel2.jpeg) 
 
     - Se abrirá una interfaz para generar la licencia:
 
-    ![intel3](/laboratorios/figs/lab0/intel3.jpeg) 
+    ![intel3](/labs/figs/lab0/intel3.jpeg) 
 
     - Dar click en ```+New Computer```.
 
