@@ -7,9 +7,9 @@ En este laboratorio nos enfocaremos en la instalación y configuración de las h
 
 Quartus es un software de diseño digital e implementación FPGA desarrollado por Intel (anteriormente Altera). Es ampliamente utilizado para la síntesis, implementación y verificación de diseños digitales en FPGAs de la familia Cyclone.
 
-* [Guía de instalación](/labs/00_lab0/Quartus_installation_guide.md)
+* [Guía de instalación](/labs/00_lab00/Quartus_installation_guide.md)
 
-* [Tutorial de implementación en la FPGA Cyclone IV](/labs/00_lab0/proyectoQuartus.md)
+* [Tutorial de implementación en la FPGA Cyclone IV](/labs/00_lab00/proyectoQuartus.md)
 
 ## 2. Herramientas de simulación *Open Source*:
 
