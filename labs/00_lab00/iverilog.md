@@ -9,11 +9,11 @@
 
   * En ```Select Components```seleccionar lo siguiente:
 
-    ![download_quartus](/laboratorios/figs/lab0/iverilog2.PNG)
+    ![download_quartus](/labs/figs/lab0/iverilog2.PNG)
 
   * En ```Select Additional Tasks```seleccionar lo siguiente cerciorarse de que la casilla ```Add executable folder(s) to the user PATH```:
 
-    ![download_quartus](/laboratorios/figs/lab0/iverilog1.PNG)
+    ![download_quartus](/labs/figs/lab0/iverilog1.PNG)
 
 
 
