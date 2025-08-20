@@ -144,7 +144,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>3</td>
     <td>Sumador de 1 y 4 bits</td>
     <td><a href="/labs/00_lab01/README.md">lab01</a></td>
-    <td>Link</td>
+    <td><a href="https://classroom.github.com/a/y1R7emVb">Link</a></td>
     <td>27 Ago</td>
   </tr>
   
