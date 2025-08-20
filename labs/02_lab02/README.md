@@ -99,7 +99,7 @@ Ejemplo: Se requiere calcular $7−5$.
 A continuación se muestra el circuito del complemento a $2$:
 
 <p align="center">
- <img src="/labs/figs/Restador.png" alt="alt text" width=700 >
+ <img src="/labs/figs/lab2/Restador.png" alt="alt text" width=700 >
 </p>
 
 Para realizar la operación de resta, el circuito presenta el siguiente comportamiento: 
