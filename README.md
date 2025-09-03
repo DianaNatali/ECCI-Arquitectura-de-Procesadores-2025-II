@@ -151,7 +151,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>3</td>
     <td>Sumador/Restador</td>
     <td><a href="/labs/02_lab02/README.md">lab02</a></td>
-    <td>Link</td>
+    <td><a href="https://classroom.github.com/a/7_AJfYY-">Link</a></td>
     <td>-</td>
   </tr>
   
