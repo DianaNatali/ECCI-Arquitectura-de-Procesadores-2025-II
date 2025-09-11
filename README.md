@@ -154,4 +154,12 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="https://classroom.github.com/a/7_AJfYY-">Link</a></td>
     <td>10 sep</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Parcial 1</td>
+    <td>-</td>
+    <td><a href="https://classroom.github.com/a/M0D0q3MJ">Link</a></td>
+    <td>10 sep</td>
+  </tr>
+
   
