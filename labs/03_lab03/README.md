@@ -74,7 +74,7 @@ El display de siete segmentos es un dispositivo electrónico que consta de siete
 En las siguientes figuras se muestra cómo se distribuyen los 7 segmentos en el display cuando se tiene una configuración de ánodo común:
 
 <p align="center">
- <img src="../figs/segm.png" alt="alt text" width=500 >
+ <img src="/labs/figs/lab03/segm.png" alt="alt text" width=500 >
 </p>
 
 
