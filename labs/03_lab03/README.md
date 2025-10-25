@@ -118,25 +118,7 @@ Realizar la integración  del módulo implementado en el ítem anterior con el s
     </p>
 
 
-<!-- #### Representación decimal de números negativos
-
-Cuando el resultado de una resta es negativo (```Co = 0```), el valor de salida (```S```) está expresado en complemento a $2$. Para convertirlo a su equivalente decimal con signo:
-
-* Aplicar complemento a $2$ nuevamente al resultado para obtener su magnitud positiva.
-
-* Agregar un signo negativo al valor obtenido.
-
-Procedimiento detallado:
-
-1. Invertir todos los bits de $S$:
-
-    $$\text{Complemento a } 1 =∼S$$ 
-    
-2. Sumar $1$ al resultado:
-     $$\text{Magnitud positiva } =(∼S)+1$$
-
-3. Asignar signo negativo:
-   $$\text{Resultado decimal } =−\text{Magnitud positiva}$$ -->
+#### Algoritmo double dabble
 
 
 ## 4. Entregables

@@ -164,11 +164,17 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
   <tr>
     <td>5</td>
     <td>Decodificador BCD a 7 segmentos</td>
-    <td><a href="/labs/03_lab03/README.md">lab02</a></td>
+    <td><a href="/labs/03_lab03/README.md">lab03</a></td>
     <td><a href="https://classroom.github.com/a/RjRUzl6k">Link</a></td>
     <td>01 oct</td>
   </tr>
-
+  <tr>
+    <td>5</td>
+    <td>Multiplicador</td>
+    <td><a href="/labs/04_lab04/README.md">lab04</a></td>
+    <td><a href="">Link</a></td>
+    <td>29 - 30 oct</td>
+  </tr>
 
    
 
