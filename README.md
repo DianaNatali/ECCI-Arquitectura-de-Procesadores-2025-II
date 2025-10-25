@@ -172,7 +172,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>10-11</td>
     <td>Multiplicador</td>
     <td><a href="/labs/04_lab04/README.md">lab04</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://classroom.github.com/a/TOCgcJ8K">Link</a></td>
     <td>29 - 30 oct</td>
   </tr>
   <tr>
