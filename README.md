@@ -179,7 +179,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>12</td>
     <td>ALU</td>
     <td><a href="/labs/05_lab05/README.md">lab05</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://classroom.github.com/a/THBREhFo">Link</a></td>
     <td>29 - 30 oct</td>
   </tr>
 
