@@ -182,6 +182,16 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td><a href="https://classroom.github.com/a/ys584fW6">Link</a></td>
     <td>29 - 30 oct</td>
   </tr>
+  <tr>
+    <td>12</td>
+    <td>SoC: PicoSoC</td>
+    <td><a href="/labs/07_lab07/README.md">lab07</a></td>
+    <td><a href="">Link </a></td>
+    <td>12 nov</td>
+  </tr>
+
+</table>
+
 
    
 
