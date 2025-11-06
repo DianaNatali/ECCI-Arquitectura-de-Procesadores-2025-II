@@ -183,7 +183,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>29 - 30 oct</td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>13</td>
     <td>SoC: PicoSoC</td>
     <td><a href="/labs/07_lab07/README.md">lab07</a></td>
     <td><a href="">Link </a></td>
