@@ -104,7 +104,7 @@ Software en general es cualquier programa que se ejecuta sobre hardware. En este
 
 ### ¿Qué es compilación cruzada (cross-compilation)?
 
-Cuando se usa un compilador, normalmente se produce un binario para el mismo sistema local. Pero en FPGA, el procesador (como PicoRV32) no es la PC loca, así que no se puede compilar directamente con ```gcc``` del sistema local.
+Cuando se usa un compilador, normalmente se produce un binario para el mismo sistema local. Pero en FPGA, el procesador (como PicoRV32) no es la PC local, así que no se puede compilar directamente con ```gcc``` del sistema local.
 
 Entonces la compilación cruzada es usar un compilador en una arquitectura (por ejemplo la PC local, x86_64) para generar código para otra arquitectura (por ejemplo, RISC-V 32 bits).
 
@@ -169,7 +169,7 @@ MSYS2 es un entorno de desarrollo basado en Windows que proporciona una terminal
 
 #### ¿Por qué es necesario al trabajar con PicoSoC?
 
-El proyecto PicoSoC incluye scripts, Makefiles, herramientas como make, y toolchains cruzados como riscv64-unknown-elf-gcc, que son comunes en entornos Linux. En Windows nativo, muchas de estas herramientas no existen o no funcionan de manera estándar. MSYS2 permite:
+El proyecto PicoSoC incluye scripts, ```Makefiles```, herramientas como ```make```, y toolchains cruzados como riscv64-unknown-elf-gcc, que son comunes en entornos Linux. En Windows nativo, muchas de estas herramientas no existen o no funcionan de manera estándar. MSYS2 permite:
 
 * Acceso a herramientas tipo Unix, como ```bash```, ```ls```, ```make```, ```grep```, etc.
 
@@ -222,7 +222,7 @@ El toolchain RISC-V ```riscv32-unknown-elf-gcc``` es un conjunto de herramientas
 
 1. Clonar el siguiente repositorio: https://github.com/DianaNatali/picosoc_simple.git
 
-    En este paquete de trabajo encontrarán un archivo ``Makefile```que es un archivo de texto que contiene un conjunto de reglas e instrucciones utilizadas por la herramienta make para automatizar tareas repetitivas, principalmente la compilación de programas.
+    En este paquete de trabajo encontrarán un archivo ```Makefile```que es un archivo de texto que contiene un conjunto de reglas e instrucciones utilizadas por la herramienta make para automatizar tareas repetitivas, principalmente la compilación de programas.
 
     En el contexto de PicoSoC es un archivo de automatización que contiene una serie de instrucciones para compilar, enlazar, sintetizar, programar y/o simular todo el proyecto de hardware y software que constituye el SoC.
 
