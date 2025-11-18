@@ -295,7 +295,7 @@ El toolchain RISC-V ```riscv32-unknown-elf-gcc``` es un conjunto de herramientas
 
 
     ```
-    make TARGET=max10 program
+    make program TARGET=max10
     ```
 
 
