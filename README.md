@@ -193,7 +193,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>15</td>
     <td>Actividad evaluativa -lab06: Banco de registros</td>
     <td><a href="/labs/06_lab06/README.md">lab06</a></td>
-    <td><a href="https://classroom.github.com/a/PkvGr15J">Link </a></td>
+    <td><a href="https://classroom.github.com/a/lmUsg_xX">Link </a></td>
     <td>19 nov</td>
   </tr>
 

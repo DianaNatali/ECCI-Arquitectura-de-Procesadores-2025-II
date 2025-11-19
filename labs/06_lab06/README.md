@@ -58,7 +58,7 @@ El funcionamiento del banco depende de señales fundamentales:
 
 ### **Parte 1: Simulación del banco de registros**
 
-1. Clone el repositorio de [Github Classroom](https://classroom.github.com/a/PkvGr15J).
+1. Clone el repositorio de [Github Classroom](https://classroom.github.com/a/lmUsg_xX).
 2. Cree un módulo top que implemente el banco de registros en `BancoRegistro.v` el cual cuenta con:
    * $16$ posiciones de $4$ bits  
    * Doble lectura  
