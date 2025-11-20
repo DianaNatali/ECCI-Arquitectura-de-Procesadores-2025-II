@@ -298,6 +298,25 @@ El toolchain RISC-V ```riscv32-unknown-elf-gcc``` es un conjunto de herramientas
     make program TARGET=max10
     ```
 
+6. Actualmente no existe forma de generar el diagrama RTL desde consola ni de verlo sin la interfaz gráfica de **Quartus**. El `RTL Viewer` es una herramienta exclusivamente gráfica y solo funciona dentro de la GUI.
+
+    Por lo tanto, después de sintetizar el proyeco usando el comando del ítem **4**, se debe abrir manualmente el proyecto en **Quartus** ejecutando:
+
+    ```
+      quartus --64bit top.qpf
+    ```
+
+    Previamente debieron haber evidenciado que el proceso de síntesis creó el archivo `top.qpf`, ya que este es el proyecto de Quartus que será abierto en este paso.
+
+
+    Luego se puede seguir el procedimiento habitual:
+
+    1. En la barra superior, ir a `Tools`.
+
+    2. Seleccionar `Netlist Viewers`.
+
+    3. Elegir `RTL Viewer`.
+
 
 
 
