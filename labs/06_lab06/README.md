@@ -12,7 +12,7 @@
 ## 1. Objetivos de aprendizaje
 
 * Comprender la función y organización de un banco de registros dentro de un sistema digital o microarquitectura.
-* Implementar en Verilog un banco de 16 registros de $4$ bits con soporte de lectura dual y escritura controlada.
+* Implementar en Verilog un banco de 16 registros de $8$ bits con soporte de lectura dual y escritura controlada.
 * Desarrollar simulaciones que validen la lectura, escritura y comportamiento del reset.
 * Integrar posteriormente la ALU del laboratorio anterior y almacenar sus resultados en el banco de registros.
 * Visualizar las operaciones aritméticas y lógicas mediante displays de $7$ segmentos.
@@ -31,7 +31,7 @@ Un **banco de registros** es un conjunto organizado de registros que permite alm
 
 El banco de registros de este laboratorio incluye:
 
-* $16$ registros de $4$ bits  
+* $16$ registros de $8$ bits  
 * Escritura habilitada mediante `regwrite`  
 * Lectura simultánea de dos registros  
 * Reset global (`rst`) para inicializar los registros
