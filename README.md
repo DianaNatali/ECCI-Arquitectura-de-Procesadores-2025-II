@@ -186,7 +186,7 @@ Esta metodología está diseñada para garantizar una experiencia de aprendizaje
     <td>13-14</td>
     <td>SoC: PicoSoC</td>
     <td><a href="/labs/07_lab07/README.md">lab07</a></td>
-    <td><a href="">Link </a></td>
+    <td><a href="https://classroom.github.com/a/tJTS6MVG">Link </a></td>
     <td>12 nov</td>
   </tr>
   <tr>
